@@ -1,6 +1,6 @@
 # Welcome to 'Let´s Drunk'
 
-Hi people! Lest's edit the **README files** of our github in: _[https://stackedit.io](https://stackedit.io)_
+Hi people! Let's edit **README files** of our github in: _[https://stackedit.io](https://stackedit.io)_
 
 # [BEERNES](https://github.com/kvilla2/Behvr-Parallax)
 
