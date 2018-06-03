@@ -1,0 +1,19 @@
+{
+  "name": "parallaxWEB",
+  "version": "1.0.0",
+  "description": "Web js whit parallax",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:kvilla2/Behvr-Parallax.git"
+  },
+  "author": "Kelly Villa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kvilla2/Behvr-Parallax/issues"
+  },
+  "homepage": "https://github.com/kvilla2/Behvr-Parallax"
+}
